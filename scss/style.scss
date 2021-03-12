@@ -204,9 +204,9 @@ about
     @include flex(space-between, center, row);
     article:first-child{
         img{
-            width: 100%;
-            height: 500px;
-            height: 100%;
+            width: 40%;
+            height: 200px;
+            height: 40%;
             object-fit: cover;
             display: block;
         }
@@ -225,11 +225,44 @@ about
 
         h2{
             font-size: 1.7rem;
-            
+
 
         }
 
     }
 }
 
+.services{
+    padding: $padding;
+    @include flex(space-between, center, row);
+    article{
+        flex:0 0 30%;
+        border: 1px solid $black;
+        margin-bottom: 50px;
+        padding: 20px;
+        transition: $transition;
+        @media(max-width: 767px) {
+            flex: 0 0 100%;
+        a :hover{
+            box-shadow: 0 0 20px;
+            transform: scale(1.1);
+        }
+        i{
+            font-size: 5rem;
+            color: $pink;
+            margin-bottom: 20px;
+        }
+        i{
+            font-size: 5rem;
+            color: $pink;
+            margin-bottom: 20px;
+        }
+        h3{
+            font-size: 1.7rem;
+        }
+        hr{
+            margin: 20px;
+        }
 
+    }
+}

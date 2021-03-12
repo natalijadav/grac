@@ -30,9 +30,41 @@
             </p>
         </article>
     </section>
-
+<!-- services -->
+    <section>
+        <article>
+            <i class="fas fa-chart-bar"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+        <article>
+            <i class="fas fa-filter"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+        <article>
+            <i class="fas fa-hands-holding-usd"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+        <article>
+            <i class="far fa-bullhorn"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+        <article>
+            <i class="far fa-bullseye"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+        <article>
+            <i class="far fa chart base_convert"></i>
+            <h3>marketing</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium rerum alias nam omnis, dolore veritatis quibusdam? Voluptatem suscipit voluptatibus deserunt, unde reiciendis asperiores quae modi sed et, doloremque, quibusdam iusto ea! Repellendus laboriosam est minima officia laudantium dignissimos eos ex!</p>
+        </article>
+    </section>
 <?php include "partials/footer.php" ?>
-<!-- about -->
+
     
 
 
