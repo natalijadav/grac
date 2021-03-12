@@ -189,3 +189,24 @@ header {
         @include btn;
     }
 }
+.headings{
+    padding: $padding;
+    @include flex(space-between, center, row);
+    article:first-child {
+        flex: 2;
+        @media(max-width: 767px) { 
+        flex:  0 0 100%;
+    }
+/*****************
+about
+*****************/
+.about{
+    @include flex(space-between, center, row);
+    article:first-child{
+        img{
+            width: 100%;
+        }
+    }
+}
+
+
