@@ -20,10 +20,10 @@
             <h4>Get your businesb 4 easy steps</h4>   
         </article>       
     </section>
-<?php include "partials/footer.php" ?>
-<!-- about -->
     <section class="about">
-        <article></article>
+        <article>
+            <img src="img/about.jpg" alt="">
+        </article>
         <article>
             <h2>Everything</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae tempora aut earum officiis dolore vero repellat ea at voluptatem veritatis. Dicta accusamus facere necessitatibus alias porro eos autem facilis, voluptate iure incidunt delectus sequi debitis, voluptatibus quis nihil! Et, perferendis!
@@ -31,6 +31,9 @@
         </article>
     </section>
 
+<?php include "partials/footer.php" ?>
+<!-- about -->
+    
 
 
     
